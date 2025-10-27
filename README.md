@@ -17,10 +17,10 @@ All queries are grounded in the retrieved document content, ensuring factually r
 
 ##  Features
 
-~ Upload multiple files (`.txt`, `.md`, `.pdf`)  
-~ Automatic document chunking and embedding via ChromaDB  
-~ Retrieval-Augmented answers grounded in uploaded documents  
-~ Conversational chat interface with multi-turn context  
+- Upload multiple files (`.txt`, `.md`, `.pdf`)  
+- Automatic document chunking and embedding via ChromaDB  
+- Retrieval-Augmented answers grounded in uploaded documents  
+- Conversational chat interface with multi-turn context  
 
 ---
 
@@ -64,7 +64,7 @@ streamlit run chat_with_pdf.py
 
 ## How to Use
 
-1. Upload one or more files (.txt, .md, .pdf).
+1. Upload one or more files (`.txt`, `.md`, `.pdf`).
 2. The app will index and embed them automatically.
 3. Type your question in the chat box.
 4. The assistant responds based on retrieved document chunks.
