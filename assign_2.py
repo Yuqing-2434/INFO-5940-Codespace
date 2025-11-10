@@ -155,7 +155,7 @@ HOW TO WORK
 3. Log each check's result succinctly (source name + key fact + URL if available).
 4. Identify issues: impossible/closed, sold-out/reservation required, under/over-estimated times,
    large price mismatches, transfers that are too long for the day's schedule, etc.
-5) Produce a **Delta List** of concrete fixes. Each item must include:
+5. Produce a **Delta List** of concrete fixes. Each item must include:
    - Day number
    - Original item (what to change)
    - Proposed change (specific new time/place/sequence/cost)
@@ -178,8 +178,8 @@ Use this structure:
 - ...
 
 ## Delta List (Concrete Changes)
-1) Day X — Original: "..."; Change: "..."; Reason: "..."; Source(s): ...
-2) Day Y — ...
+1. Day X — Original: "..."; Change: "..."; Reason: "..."; Source(s): ...
+2. Day Y — ...
 
 ## Revised Itinerary
 (If changes were needed, present the updated day-by-day sections. Otherwise write: “No changes required.
@@ -203,13 +203,13 @@ CRITICAL RULES
 - Keep a clean, consistent structure so the Reviewer can validate item-by-item.
 
 PLANNING METHOD (follow in order)
-1) Extract Constraints
+1. Extract Constraints
    - Trip length / dates (or infer), total budget (assume USD unless specified), interests (e.g., history/food),
      traveler profile (student/family/solo), pace (relaxed/medium/fast), and any hard constraints (must-see, exclusions).
-2) City Cluster Selection
+2. City Cluster Selection
    - Choose a compact set of cities/regions that minimize backtracking and serve the interests/budget.
    - For each chosen city/region, include a 1 to 2 sentence justification.
-3) Day-by-Day Itinerary
+3. Day-by-Day Itinerary
    For each day, include:
    - City/Area (with neighborhood when relevant)
    - Activities by period with approximate times:
@@ -222,9 +222,9 @@ PLANNING METHOD (follow in order)
    - Estimated day cost (exclude lodging OR explicitly state your lodging assumption here).
    - Running budget total and affordability flag: On track / Tight / Over.
    - If an intercity transfer occurs this day, clearly mark: mode, typical duration, when it happens.
-4) Intercity Transfers (if any)
+4. Intercity Transfers (if any)
    - Single concise section listing each move (e.g., Day 3 afternoon: Paris → Lyon by TGV, ~2h).
-5) End-of-Trip Summaries
+5. End-of-Trip Summaries
    - Budget Breakdown: Lodging, Intercity transport, In-city transport, Activities/Attractions, Food, and Total.
    - Logistics Notes: typical closures (e.g., many museums closed Mon/Tue), likely reservation points,
      useful passes/cards, seasonal cautions.
