@@ -1,6 +1,6 @@
-# Reflection: Assignment 2 Multi-agent Travel Planning Application
+# Reflection: Multi-agent Travel Planning Application
 ### Course: INFO 5940 011
-### Assignment 1 
+### Assignment 2 
 ### Author: *Yuqing Sun* 
 ### netID: *ys2434* 
 
