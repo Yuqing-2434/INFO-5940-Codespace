@@ -1,4 +1,8 @@
-# Reflection
+# Reflection: Assignment 2 Multi-agent Travel Planning Application
+### Course: INFO 5940 011
+### Assignment 1 
+### Author: *Yuqing Sun* 
+### netID: *ys2434* 
 
 ## What I Learned from Implementing a Multi-Agent Workflow
 Building a multi-agent travel planning application deepened my understanding of how different AI agents can collaborate to solve a complex problem in a structured, sequential manner. The **Planner Agent** and **Reviewer Agent** had distinct yet interdependent roles, demonstrating the importance of clear division of responsibilities in agent design. Through this process, I learned how to design **instruction prompts** that balance autonomy with control — making the Planner creative but bounded by budget and itinerary constraints, and the Reviewer analytical and fact-based, supported by a live search tool. This workflow clarified how agents can **pass context-rich data** to each other, and how **iterative refinement** leads to more realistic and accurate outputs.

@@ -12,7 +12,6 @@ Highlights:
 from __future__ import annotations
 
 import os
-
 import asyncio
 import time
 from typing import Callable, Dict, List, Optional, Any
@@ -34,7 +33,6 @@ os.environ.setdefault("OPENAI_TRACING", "false")
 # Tool call logger: the UI sets this per request. The tool checks it and logs.
 # Using a simple global makes this easy to teach and reason about.
 TOOL_LOGGER: Optional[Callable[[Dict[str, Any]], None]] = None
-
 
 def set_tool_logger(logger: Optional[Callable[[Dict[str, Any]], None]]) -> None:
     """Install or remove the UI logger used by tools to report activity."""
